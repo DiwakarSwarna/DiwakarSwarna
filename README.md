@@ -3,19 +3,13 @@
 🚀 **Full Stack Developer | MERN Stack | Flutter | AI-ML Enthusiast**  
 📍 India  
 
----
-
 ## 📌 About Me
 
 I am an enthusiastic and detail-oriented **Full Stack Developer** with hands-on experience in building **responsive, scalable, and secure web applications** using the **MERN stack**. I have a strong foundation in both frontend and backend development and a passion for writing clean, efficient, and maintainable code.
 
 I actively participate in **academic projects, hackathons, and open-source contributions**, and I enjoy solving real-world problems using technology—especially in the domains of **AI/ML, automation, and digital governance**.
 
----
 
-
-
-## 🛠️ Technical Skills
 
 ## 🛠️ Technical Skills
 
@@ -26,7 +20,6 @@ I actively participate in **academic projects, hackathons, and open-source contr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,19 +28,16 @@ I actively participate in **academic projects, hackathons, and open-source contr
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
----
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
----
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
 ### 🧰 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -55,7 +45,6 @@ I actively participate in **academic projects, hackathons, and open-source contr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
----
 
 ## 💼 Projects
 ### 🥭 Minfo
@@ -83,17 +72,7 @@ Secure **e-Voting System** for RGUKT student elections.
 - Real-time result display  
 - Admin dashboard for managing polls and candidates  
 
----
 
-## 🤝 Soft Skills
-
-- Team Collaboration  
-- Leadership  
-- Time Management  
-- Problem Solving  
-- Quick Learner  
-
----
 
 ## 📜 Certifications
 
@@ -103,7 +82,6 @@ Secure **e-Voting System** for RGUKT student elections.
 - SQL (Basic) – HackerRank  
 - Java Programming – Object-Oriented Design  
 
----
 
 ## 📫 Connect With Me
 
@@ -111,5 +89,4 @@ Secure **e-Voting System** for RGUKT student elections.
 - 💼 LinkedIn: https://www.linkedin.com/in/diwakar-swarna
 - 🧑‍💻 GitHub:  https://github.com/DiwakarSwarnahttps
 
----
 
