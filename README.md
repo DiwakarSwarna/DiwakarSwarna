@@ -87,6 +87,6 @@ Secure **e-Voting System** for RGUKT student elections.
 
 - 📧 Email: swarnadiwakar8@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/diwakar-swarna
-- 🧑‍💻 GitHub:  https://github.com/DiwakarSwarnahttps
+- 🧑‍💻 GitHub:  https://github.com/DiwakarSwarna
 
 
